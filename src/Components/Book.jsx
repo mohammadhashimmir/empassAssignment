@@ -48,7 +48,7 @@ const Book=()=>{
             <div className="ui centered card">
             <h3 className="ui center aligned header book">Book an Expert</h3>
 
-            <form>
+            <form onSubmit={(e)=>{e.preventDefault()}}>
               <label className="ui label l1">Select an Expert</label>      
             <div onClick={()=>setOpen(!open)} className={`ui selection dropdown ${ open ? "visible active" :""}`}>
             <i className="dropdown icon"></i>
