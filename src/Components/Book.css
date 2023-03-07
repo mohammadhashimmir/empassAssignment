@@ -20,8 +20,3 @@ label.ui.label.l1, div.ui.label.l2, div.ui.label.l3{
     color: white;
     background-color:#252E3E
 }
-@media  only screen and (max-width:767px){
-    div.ui.centered.card{
-        margin-top:-45vh;
-    }
-}

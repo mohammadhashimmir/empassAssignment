@@ -66,7 +66,7 @@ const Stats=()=>{
         <div>
             
             <Dashboard/>
-            <table className="ui celled table">
+            <table className="ui unstackable table">
             <thead>
             <tr><th>Tests Taken</th>
             <th>Test Score/100</th>

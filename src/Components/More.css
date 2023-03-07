@@ -1,13 +1,8 @@
 div.ui.centered.card.c2{
     text-align: center;
-    margin-top:-70vh;
+    margin-top:-80vh;
     padding: 20px;
 }
 .moreButtonSection> button{
     margin-bottom: 30px!important;
-}
-@media  only screen and (max-width:767px){
-    div.ui.centered.card.c2{
-        margin-top:-35vh;
-    }
 }
