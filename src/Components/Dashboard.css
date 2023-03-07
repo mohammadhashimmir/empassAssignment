@@ -53,7 +53,7 @@ div.ui.vertical.menu.responsivex > a:hover{
      display:flex;
      width: 10%!important;
      margin-top: -13px;
-     height: 100vh!important;
+     height: 50vh!important; 
  
     }
     div.ui.vertical.menu.responsivex>a{
