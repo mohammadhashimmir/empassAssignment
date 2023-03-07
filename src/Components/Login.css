@@ -1,0 +1,25 @@
+.main{
+ width: 444px;
+  margin: 20vh auto;
+  padding: 20px 10px; 
+}
+div.ui.input{
+  width: 90%;
+  max-width: 400px;
+  height: 50px;
+  margin-top: 10px;
+}
+div.ui.label{
+  width: 100px;
+}
+div.ui.primary.button{
+width: 300px!important;
+}
+div.ui.checkbox{
+  margin-top: 20px;
+}
+.buttonBox{
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}

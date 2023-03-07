@@ -1,0 +1,22 @@
+div.ui.centered.card{
+    box-shadow: none;
+    margin-top:-90vh;
+    padding:20px;
+}
+div.ui.labeled.input.date, div.ui.labeled.input.time{
+    height: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+label.ui.label.l1{
+    margin-bottom: 10PX;
+}
+h3.ui.center.aligned.header.book{
+    margin-bottom: 50px;
+    text-decoration: underline;
+    color:#1C2536 ;
+}
+label.ui.label.l1, div.ui.label.l2, div.ui.label.l3{
+    color: white;
+    background-color:#252E3E
+}
