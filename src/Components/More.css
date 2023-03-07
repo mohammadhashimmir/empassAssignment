@@ -6,3 +6,8 @@ div.ui.centered.card.c2{
 .moreButtonSection> button{
     margin-bottom: 30px!important;
 }
+@media  only screen and (max-width:767px){
+    div.ui.centered.card.c2{
+        margin-top:-35vh;
+    }
+}

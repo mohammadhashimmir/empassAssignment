@@ -3,3 +3,8 @@ table.ui.celled.table{
     width:65%;
     margin-left:25%;
 }
+@media  only screen and (max-width:767px){
+    table.ui.celled.table{
+        margin-top:-45vh;
+     } 
+}
